@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 **Data & AI/ML**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -36,13 +37,14 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhar51&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Azhar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar51&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhar51&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Azhar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar51&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
+
 ---
+
 ### 🏙️ My Contribution City
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="100%">
 </p>
-
